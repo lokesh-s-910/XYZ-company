@@ -5,7 +5,7 @@
 - This is becoming a big issue for PowerCo and they have engaged to help diagnose the reason why their customers are churning.
 
 ## steps 
-#######note: Data Cleaned there is no missing values
+####### note: Data Cleaned there is no missing values
 
 - Step 1: Understand Data & requirements
 - step 2: EDA
